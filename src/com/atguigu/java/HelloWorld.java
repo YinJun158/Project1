@@ -18,16 +18,16 @@ public class HelloWorld<publ> {
 
         System.out.println();
 
-        
+        //ceshigengxin
 
-        System.out.println("args = [" + args + "]");
+
 
 
         System.out.println("HelloWorld.main");
 
         Date date = new Date();
 
-
+        System.out.println("github-test");
         }
         public static void method1(){
             try {
